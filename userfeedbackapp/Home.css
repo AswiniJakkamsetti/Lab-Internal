@@ -1,0 +1,33 @@
+.a
+{
+  border-top-style: outset;
+  border-top-width: 4px;
+  border-top-color:orange;
+  background-color:blue;
+  text-align:center;
+  padding-bottom:20px;
+  padding-top:10px;
+  margin-right:0;
+  color:white;
+}
+.h li{
+  display:inline;
+  padding:10px;
+  text-decoration:none;
+  color:white;
+}
+
+a
+{
+ text-decoration:none;
+}
+.s{
+  color:white;
+}
+
+.e{
+  color:brown;
+}
+.z{
+background-color:cyan;
+}

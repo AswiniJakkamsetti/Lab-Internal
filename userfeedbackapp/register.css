@@ -1,0 +1,63 @@
+.a
+{
+  border-top-style: outset;
+  border-top-width: 4px;
+  border-top-color:orange;
+  background-color:Grey;
+  text-align:center;
+  padding-bottom:20px;
+  padding-top:10px;
+  margin-right:0;
+  color:white;
+}
+.h li{
+  display:inline;
+  padding:10px;
+  text-decoration:none;
+  color:white;
+}
+.textinput{
+	margin-top:2px;
+	height:28px;
+	border:1px solid #5E6E66;
+	font-size:16px;
+	padding:5px;
+	width:230%;
+	
+}
+legend{
+	text-align:center;
+}
+table{
+	font-weight:bold;
+	color:black;
+}
+
+a
+{
+ text-decoration:none;
+ color:white;
+}
+.har{
+	background-image:url("cat2.jpg");
+	width:1300px;
+    height:630px;
+    background-repeat:no-repeat;
+    background-size:cover;
+    margin-left:0;
+    padding-top:190px;
+    padding-left:32px;	
+}
+fieldset{
+	opacity:0.8;
+	     background-color: #ffffff;
+	text-align:center;
+	//display: block;
+	margin-left:100px;
+	margin-right:800px;
+	margin-top:30px;
+	padding-top:50px;
+	padding-bottom:50px;
+	padding-left:50px;
+	padding-right:200px;
+}
